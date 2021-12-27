@@ -1,0 +1,37 @@
+2021-12-27 10:58:45 [  INFO  ] Environment platform = Linux-3.10.0-957.21.3.el7.x86_64-x86_64-with-glibc2.23
+2021-12-27 10:58:45 [  INFO  ] Environment python_version = 3.9.9.final.0 (64 bit)
+2021-12-27 10:58:45 [  INFO  ] Environment cpu_brand = Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz
+2021-12-27 10:58:45 [  INFO  ] Environment cpu_count = 40
+2021-12-27 10:58:45 [  INFO  ] Environment total_memory = 754.6GB
+2021-12-27 10:58:45 [  INFO  ] Config      problem_type = nontrivial-factor
+2021-12-27 10:58:45 [  INFO  ] Config      n_warmups = 10
+2021-12-27 10:58:45 [  INFO  ] Config      n_problems = 50
+2021-12-27 10:58:45 [  INFO  ] Config      exp_dist = uniform
+2021-12-27 10:58:45 [  INFO  ] Config      n_vars = 5
+2021-12-27 10:58:45 [  INFO  ] Config      min_n_terms = 22
+2021-12-27 10:58:45 [  INFO  ] Config      max_n_terms = 30
+2021-12-27 10:58:45 [  INFO  ] Config      min_degree = 22
+2021-12-27 10:58:45 [  INFO  ] Config      max_degree = 30
+2021-12-27 10:58:45 [  INFO  ] Config      min_coeff = -16384
+2021-12-27 10:58:45 [  INFO  ] Config      max_coeff = 16384
+2021-12-27 10:58:45 [  INFO  ] Config      build_dir = /home/tueda/work/polybench/build
+2021-12-27 10:58:45 [  INFO  ] Config      output_dir = /home/tueda/work/polybench-result/0.2.0
+2021-12-27 10:58:45 [  INFO  ] Config      job_id = 0004
+2021-12-27 10:58:45 [  INFO  ] Config      seed = 42
+2021-12-27 10:58:45 [  INFO  ] Config      timeout = 3600
+2021-12-27 10:58:45 [  INFO  ] Config      build_only = False
+2021-12-27 10:58:45 [  INFO  ] Config      keep_temp = False
+2021-12-27 10:58:45 [  INFO  ] Config      debug = False
+2021-12-27 10:58:45 [WARNING ] Fermat      not available
+2021-12-27 10:58:45 [  INFO  ] FORM        FORM 4.2.1 (Nov 21 2018, v4.2.1) 64-bits
+2021-12-27 10:58:47 [  INFO  ] Mathematica 13.0.0 for Linux x86 (64-bit) (December 10, 2021)
+2021-12-27 10:58:47 [WARNING ] reFORM      not available
+2021-12-27 10:58:49 [  INFO  ] Rings       2.5.8, JVM: 17.0.1 (Homebrew 17.0.1+1)
+2021-12-27 10:58:49 [  INFO  ] Singular    Singular for x86_64-Linux version 4.2.1 (4210, 64 bit) May 2021
+2021-12-27 11:03:07 [  INFO  ] FORM        258.202 sec (average: 4.366 +- 1.782 sec, slowest: 10.454 sec on 39)
+2021-12-27 12:03:08 [WARNING ] Mathematica Command '['/usr/bin/wolframscript', '-file', 'program.m']' timed out after 3599.9999302229844 seconds: ['/usr/bin/wolframscript', '-file', 'program.m']
+2021-12-27 12:03:08 [ ERROR  ] Mathematica failed
+2021-12-27 12:03:19 [  INFO  ] Rings       11.450 sec (average: 0.143 +- 0.036 sec, slowest: 0.269 sec on 33)
+2021-12-27 12:03:33 [  INFO  ] Singular    13.722 sec (average: 0.208 +- 0.063 sec, slowest: 0.410 sec on 37)
+2021-12-27 12:03:34 [  INFO  ] Bench       output_csv_file = /home/tueda/work/polybench-result/0.2.0/0004.csv
+2021-12-27 12:03:35 [  INFO  ] Bench       figures are in /home/tueda/work/polybench-result/0.2.0/0004.figures
