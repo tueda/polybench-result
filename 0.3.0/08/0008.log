@@ -1,0 +1,40 @@
+2024-08-21 16:57:55 [  INFO  ] Environment platform = Linux-5.15.0-84-generic-x86_64-with-glibc2.29
+2024-08-21 16:57:56 [  INFO  ] Environment python_version = 3.8.10.final.0 (64 bit)
+2024-08-21 16:57:56 [  INFO  ] Environment cpu_brand = 12th Gen Intel(R) Core(TM) i9-12900
+2024-08-21 16:57:56 [  INFO  ] Environment cpu_count = 16 (logical: 24)
+2024-08-21 16:57:56 [  INFO  ] Environment total_memory = 62.6GB
+2024-08-21 16:57:56 [  INFO  ] Config      problem_type = nontrivial-factor
+2024-08-21 16:57:56 [  INFO  ] Config      n_warmups = 10
+2024-08-21 16:57:56 [  INFO  ] Config      n_problems = 200
+2024-08-21 16:57:56 [  INFO  ] Config      exp_dist = sharp
+2024-08-21 16:57:56 [  INFO  ] Config      n_vars = 8
+2024-08-21 16:57:56 [  INFO  ] Config      min_n_terms = 37
+2024-08-21 16:57:56 [  INFO  ] Config      max_n_terms = 50
+2024-08-21 16:57:56 [  INFO  ] Config      min_degree = 0
+2024-08-21 16:57:56 [  INFO  ] Config      max_degree = 30
+2024-08-21 16:57:56 [  INFO  ] Config      min_coeff = -16384
+2024-08-21 16:57:56 [  INFO  ] Config      max_coeff = 16384
+2024-08-21 16:57:56 [  INFO  ] Config      build_dir = /home/tueda/work/polybench/build
+2024-08-21 16:57:56 [  INFO  ] Config      output_dir = /home/tueda/work/polybench-result/0.3.0/08
+2024-08-21 16:57:56 [  INFO  ] Config      job_id = 0008
+2024-08-21 16:57:56 [  INFO  ] Config      seed = 42
+2024-08-21 16:57:56 [  INFO  ] Config      timeout = 21600
+2024-08-21 16:57:56 [  INFO  ] Config      build_only = False
+2024-08-21 16:57:56 [  INFO  ] Config      keep_temp = False
+2024-08-21 16:57:56 [  INFO  ] Config      debug = False
+2024-08-21 16:57:56 [WARNING ] Fermat      not available
+2024-08-21 16:57:57 [  INFO  ] FLINT       flint 2.9.0, cc (GNU) 10.5.0
+2024-08-21 16:57:57 [  INFO  ] FORM        FORM 4.3.1 (Apr 11 2023, v4.3.1) 64-bits
+2024-08-21 16:58:04 [  INFO  ] Mathematica 14.1.0 for Linux x86 (64-bit) (July 22, 2024)
+2024-08-21 16:58:04 [WARNING ] reFORM      not available
+2024-08-21 16:58:05 [  INFO  ] Rings       2.5.8, JVM: 11.0.20.1 (Ubuntu 11.0.20.1+1-post-Ubuntu-0ubuntu120.04)
+2024-08-21 16:58:05 [  INFO  ] Singular    Singular for x86_64-Linux version 4.4.0 (44002, 64 bit) May 29 2024 14:14:10
+2024-08-21 16:58:05 [  INFO  ] Symbolica   0.9.0, rustc 1.80.1 (3f5fd8dd4 2024-08-06)
+2024-08-21 16:58:07 [  INFO  ] FLINT       1.330 sec (mean: 0.004 sec, SD: 0.006 sec, slowest: 0.049 sec on Prob. 27)
+2024-08-21 17:16:42 [  INFO  ] FORM        1114.656 sec (mean: 5.321 sec, SD: 4.776 sec, slowest: 31.598 sec on Prob. 21)
+2024-08-21 17:16:48 [  INFO  ] Mathematica 6.573 sec (mean: 0.013 sec, SD: 0.007 sec, slowest: 0.065 sec on Prob. 27)
+2024-08-21 17:17:12 [  INFO  ] Rings       23.756 sec (mean: 0.107 sec, SD: 0.268 sec, slowest: 3.377 sec on Prob. 28)
+2024-08-21 17:19:22 [  INFO  ] Singular    129.768 sec (mean: 0.631 sec, SD: 2.593 sec, slowest: 23.371 sec on Prob. 42)
+2024-08-21 17:24:09 [  INFO  ] Symbolica   287.634 sec (mean: 1.330 sec, SD: 2.042 sec, slowest: 12.935 sec on Prob. 172)
+2024-08-21 17:24:11 [  INFO  ] Bench       output_csv_file = /home/tueda/work/polybench-result/0.3.0/08/0008.csv
+2024-08-21 17:24:14 [  INFO  ] Bench       figures are in /home/tueda/work/polybench-result/0.3.0/08/0008.figures
